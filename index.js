@@ -1,4 +1,4 @@
-//receive string argument and return all caps
+//receives one argument and returns it in all caps
 function shout(string){
   return string.toUpperCase()
 }
