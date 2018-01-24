@@ -8,4 +8,7 @@ function whisper(string){
   return string.toLowerCase()
 }
 
-//
+//?
+function shoutLog(string){
+  return console.log(`$shout`)
+}
