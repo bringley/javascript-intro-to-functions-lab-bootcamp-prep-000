@@ -12,3 +12,8 @@ function whisper(string){
 function logShout(string){
   console.log(string.toUpperCase())
 }
+
+//calls console.log() its one argument in all lowercase
+function logWhisper(string){
+  console.log(string.toLowerCase())
+}
