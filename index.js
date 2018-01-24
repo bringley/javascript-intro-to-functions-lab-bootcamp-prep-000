@@ -8,7 +8,7 @@ function whisper(string){
   return string.toLowerCase()
 }
 
-//receive string argument and print all caps to console
+//calls console.log() its one argument in all caps
 function shoutLog(string){
-  console.log(shout.toUpperCase)
+  return console.log(shout.toUpperCase)
 }
