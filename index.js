@@ -9,6 +9,6 @@ function whisper(string){
 }
 
 //calls console.log() its one argument in all caps
-function shoutLog(string){
-  return console.log(shout.toUpperCase)
+function logShout(string){
+  console.log(shout.toUpperCase)
 }
