@@ -3,7 +3,7 @@ function shout(string){
   return string.toUpperCase()
 }
 
-//receive string argument and return all lowercase
+//receives one argument and returns it in all lowercase
 function whisper(string){
   return string.toLowerCase()
 }
